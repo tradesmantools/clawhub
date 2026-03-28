@@ -1,0 +1,4 @@
+# Gitleaks ignore file
+# Add fingerprints of known false positives here
+# Format: filepath:rule:line-number
+
