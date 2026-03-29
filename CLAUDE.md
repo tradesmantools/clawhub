@@ -42,3 +42,10 @@ Users publish, version, search, and install text-based agent skills (SKILL.md + 
 - **Live**: clawhub.ai (Vercel) + onlycrabs.ai
 - **Owner**: JC — Jonathon Chambless
 - **Related**: github.com/openclaw/openclaw (runtime), gitlab.com/lv8rlabs/tradesman-verify (example skill)
+
+## Governance
+This repo participates in the LV8R Governance Arc (Phase 4).
+- Governance doc: C:\HtmlDocuments\HtmlDocuments\docs\lv8r-governance-arc.md
+- Framework: BMLS-Super-Critical-Dojo-Evo
+- BMLS Lane: SHARE
+- Pre-commit: gitleaks (global hook via core.hooksPath)
